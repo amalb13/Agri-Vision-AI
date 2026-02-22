@@ -1,0 +1,7 @@
+streamlit
+torch
+torchvision
+pillow
+pillow-heif
+imageio
+streamlit-option-menu
