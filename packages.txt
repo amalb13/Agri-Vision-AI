@@ -1,4 +1,0 @@
-# System packages for Streamlit Cloud (Ubuntu)
-# Uncomment if you need specific libraries:
-# libgl1-mesa-glx
-# libglib2.0-0
